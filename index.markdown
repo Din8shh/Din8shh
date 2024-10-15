@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
-
 ---
-⚙️ site under works since october 6,2024!!! 
+
+⚙️ Site under construction since October 6, 2024!
