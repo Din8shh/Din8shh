@@ -5,4 +5,5 @@ layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
 
 ---
-Site Under Construction!!!
+⚙️ site under works since october 6,2024!!!
+(rome wasn't built in a day)
