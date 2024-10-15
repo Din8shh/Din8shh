@@ -1,0 +1,12 @@
+/* assets/css/custom.css */
+body {
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+.post {
+    margin-bottom: 20px;
+}
