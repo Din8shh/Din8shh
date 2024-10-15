@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+tilte: dinesh yadav
 email: din8sh@hey.com
 description: >- 
   site will be live by october 19, 2024. 
