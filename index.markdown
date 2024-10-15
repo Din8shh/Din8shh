@@ -4,6 +4,6 @@
 layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
 ---
+<h4 style="margin-bottom: 2px; line-height: 1.2;"> ⚙️ Site under construction since October 6, 2024! </h4>
+<p style="margin-top: 0; line-height: 1.2;">(Rome wasn't built in a day)</p>
 
-<h4 style="margin-bottom: 5px;">Site under construction since October 6, 2024!⚙️ </h4>
-<p style="margin-top: 0;">(Rome wasn't built in a day)</p>
