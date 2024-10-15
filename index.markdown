@@ -5,5 +5,6 @@ layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
 ---
 
-<h1> ⚙️ Site under construction since October 6, 2024! <h1>  <br>
-(rome wasn't built in a day)
+<h4> ⚙️ Site under construction since October 6, 2024! <h4> 
+<br>
+<h6>(rome wasn't built in a day) </h6>
