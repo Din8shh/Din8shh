@@ -6,5 +6,4 @@ description: "Welcome to my personal blog where I share insights and experiences
 ---
 
 <h4> ⚙️ Site under construction since October 6, 2024! <h4> 
-<br>
-<h6>(rome wasn't built in a day) </h6>
+<p>(rome wasn't built in a day) </p>
