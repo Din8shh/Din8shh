@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: My Home Page
+title: I write, what I feel
 description: Welcome to my personal blog where I share insights and experiences.
 
 ---
