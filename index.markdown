@@ -5,4 +5,4 @@ layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
 
 ---
-⚙️ site under works since october 6,2024!!!
+⚙️ site under works since october 6,2024!!! 
