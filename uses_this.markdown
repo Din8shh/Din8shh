@@ -1,3 +1,6 @@
+---
 layout: page
-title: blog
-permalink: /blog/
+title: uses this
+permalink: /uses_this/
+---
+
