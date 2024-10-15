@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
-message: "Site Under Construction!!!"
 
 ---
+Site Under Construction!!!
