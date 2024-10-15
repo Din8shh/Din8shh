@@ -6,3 +6,4 @@ description: "Welcome to my personal blog where I share insights and experiences
 ---
 
 ⚙️ Site under construction since October 6, 2024!
+(rome wasn't built in a day)
