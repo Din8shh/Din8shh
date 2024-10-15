@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: my blog
+Site Under Construction!!!
 description: Welcome to my personal blog where I share insights and experiences.
 
 ---
