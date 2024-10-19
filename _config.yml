@@ -21,7 +21,7 @@
 title: dinesh yadav
 description: >- 
   Powered by jekyll & © dinesh yadav
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/din8sh.com" # the subpath of your site, e.g. /blog
 
 # Build settings
 theme: minima
