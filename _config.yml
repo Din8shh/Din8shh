@@ -20,7 +20,7 @@
 
 title: ""
 description: >- 
-  powered by [jekyll](https://jekyllrb.com) & © 2024 Din8sh.
+  powered by [<a href="https://jekyllrb.com">jekyll</a> & © 2024 Din8sh.
 show_title: false
 # Build settings
 theme: minima
