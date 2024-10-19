@@ -18,18 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: dinesh yadav
-email: din8sh@hey.com
-description: >- 
-  site will be live by october 19, 2024. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://din8sh.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: din8sh
-linkedin_username: din8sh
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+
+powered by jekyll & copy; 2024 Din8sh. All rights reserved.
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
