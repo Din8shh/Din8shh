@@ -3,6 +3,7 @@ layout: page
 title: Uses this
 permalink: /uses_this/
 ---
+[Go Back](/home/)
 This is a page inspired by [Uses this](https://usesthis.com) and [Manas Saloi Uses this](https://manassaloi.com/usesthis/).
 
 ### <u>Hardware</u>

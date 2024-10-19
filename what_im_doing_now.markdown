@@ -3,6 +3,7 @@ layout: page
 title:  now this
 permalink: /what_im_doin_now/
 ---
+[Go Back](/home/)
 (Last updated on October 19, 2024)
 
 ![itsme](dinesh.jpg){: style="width: 25%; height: auto;"}<br>
