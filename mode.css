@@ -1,0 +1,28 @@
+/* Night mode styles */
+.night-mode {
+    background-color: #1a1a1a; /* Dark background */
+    color: #ffffff; /* Light text color */
+}
+
+.night-mode a {
+    color: #66ccff; /* Light blue for links */
+}
+
+.night-mode h1,
+.night-mode h2,
+.night-mode h3,
+.night-mode h4,
+.night-mode h5,
+.night-mode h6 {
+    color: #ffffff; /* White text for headers */
+}
+
+/* Optional: Adjust other elements for better visibility */
+.night-mode p,
+.night-mode li {
+    color: #e0e0e0; /* Lighter gray for paragraphs and list items */
+}
+
+.night-mode img {
+    opacity: 0.9; /* Slightly reduce opacity for images */
+}
