@@ -13,3 +13,5 @@ Hi, I’m Dinesh 👋🏻
 - I don’t have filters on my blog, You can find my hot takes on Agri inputs and Software Product management in agriculture [here]({{site.baseurl}}/product_management_posts/)
 - You can find the People I follow [here]({{site.baseurl}}/people_i_follow/)
 - You can find me on [X](https://twitter.com/din8sh) and [LinkedIn](https://linkedin.com/in/din8sh)
+
+[Product Management Posts](/product_management_posts/)
