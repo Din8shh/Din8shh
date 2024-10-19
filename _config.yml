@@ -21,7 +21,7 @@
 title: dinesh yadav
 description: >- 
   Powered by jekyll & © dinesh yadav
-show_title: false
+title: false
 # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
