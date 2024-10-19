@@ -21,7 +21,7 @@
 title: dinesh yadav
 description: >- 
   Powered by jekyll & © dinesh yadav
-# the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 theme: minima

@@ -4,6 +4,7 @@
 layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
 night-mode: true
+permalink: /home/
 ---
 ![itsme](dinesh.jpg){: style="width: 25%; height: auto;"}<br>
 
