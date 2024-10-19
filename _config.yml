@@ -18,9 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ""
-footer: >- 
-  © 2024 Din8sh.
+title: dinesh yadav
+footer_text: "Powered by [jekyll](https://jekyllrb.com) & © 2024 Din8sh."
 show_title: false
 # Build settings
 theme: minima
