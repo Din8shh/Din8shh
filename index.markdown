@@ -12,4 +12,4 @@ night-mode: true
 - I don’t have filters on my blog; you can find my hot takes on [<u>Agri inputs</u>](/agri_inputs/) and software product management in agriculture [<u>here</u>](/product_management_posts/).<br><br>
 - You can find the people I follow [<u>here</u>]({{site.baseurl}}/people_i_follow/).<br><br>
 
-- You can find me on [<u>X</u>](https://twitter.com/din8sh) and [<u>LinkedIn</u>](https://linkedin.com/in/din8sh).<br><br>
+- You can find me on <a href="https://twitter.com/din8sh" target="_blank" rel="noopener noreferrer"><u>X</u></a> and <a href="https://linkedin.com/in/din8sh" target="_blank" rel="noopener noreferrer"><u>LinkedIn</u></a>.<br><br>
