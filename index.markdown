@@ -9,9 +9,7 @@ night-mode: true
 Hi, I’m Dinesh 👋🏻
 
 - You can find my credentials  [here]({{site.baseurl}}/about/) and What I’m doing currently [here]({{site.baseurl }}/what_im_doin_now/).
-- You can find my writings, I write primarily on [Agritech]({{site.baseurl}}/agriculture/), but I also share [here]({{site.baseurl}}/random_musings/) from time to time.
-- I don’t have filters on my blog, You can find my hot takes on Agri inputs and Software Product management in agriculture [here]({{site.baseurl}}/product_management_posts/)
+- You can find my writings[here](/blog/), I write primarily on [Agritech](/agriculture/), but I also share [here](/random_musings/) from time to time.
+- I don’t have filters on my blog, You can find my hot takes on Agri inputs and Software Product management in agriculture [here](/product_management_posts/)
 - You can find the People I follow [here]({{site.baseurl}}/people_i_follow/)
 - You can find me on [X](https://twitter.com/din8sh) and [LinkedIn](https://linkedin.com/in/din8sh)
-
-[Product Management Posts](/product_management_posts/)
