@@ -18,9 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
-powered by jekyll & copy; 2024 Din8sh. All rights reserved.
-
+title: dinesh yadav
+powered by jekyll
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
