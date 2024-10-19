@@ -2,4 +2,4 @@
 layout: page
 permalink: /agri_inputs/
 ---
-will be updated later
+will be updated soon
