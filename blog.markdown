@@ -1,9 +1,10 @@
 ---
 layout: page
-title: blog
+title: Posts
 permalink: /blog/
 ---
-# Blog Entries
-{% for entry in site.data.blogs_data%}
- {{ entry.date }}  [Do farmers need an exclusive Social Media Platform?]({{ entry.link }}) 
+[Go Back](/home/)
+{% assign sorted_entries = site.data.blogs_data | reverse %}
+{% for entry in sorted_entries %}
+  {{ entry.date }} [{{ entry.title }}]({{ entry.link }})  
 {% endfor %}

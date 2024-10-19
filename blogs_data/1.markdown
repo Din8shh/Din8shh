@@ -1,19 +1,20 @@
 ---
 layout: page
-permalink: /farmers/
+permalink: /1/
 ---
+[Go Back](/blog/)
 <h2 style="margin: 0;">Do farmers need an exclusive Social Media Platform?</h2><dr>
-<h6 style="color: #7D7D7D;" >October 2024</h6><dr>
+<h6 style="color: #7D7D7D;" >October 2022</h6><dr>
 I'm trying to understand Social Media and what motivates users to use particular social media platforms.<dr>
 
-I realised apart from very few cases most times a user’s motivation behind using any social platform is similar. It is utility, social capital and network effects of the platform.<br>
+I realised apart from very few cases most times a user’s motivation behind using any social platform is similar. It is utility, social capital and network effects of the platform.
 Interestingly less than 1% of the social media users gain social capital. They spent consistent time and effort to reach a position where they can leverage social capital and turn it into monetary rewards.<br><br>
 
-WhatsApp is an exception where no social capital is involved but the strong utility and Network Effect made it a social behemoth it is today.<dr>
+WhatsApp is an exception where no social capital is involved but the strong utility and Network Effect made it a social behemoth it is today.
 
 Now before jumping into the original question let's think about "What social media platforms do farmers use? Why do they use a social media platform? How much time should they spend on such platforms?".<br><br>
 
-Only, if we find answers to these questions we attempt answering the original question. Currently, farmers who are using the social media, use Facebook, YouTube, short video apps and WhatsApp.<br>
+Only, if we find answers to these questions we attempt answering the original question. Currently, farmers who are using the social media, use Facebook, YouTube, short video apps and WhatsApp.
 
 Many of the Farmers who are on Facebook may have started using it only after fellow farmers told him about the Farmer Groups on Facebook where they can connect, get solutions to their crops from the other farmers who are growing the same crop but in a different region.<br><br>
 
