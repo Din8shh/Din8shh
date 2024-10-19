@@ -4,6 +4,11 @@
 layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
 ---
-<h4 style="margin-bottom: 2px; line-height: 1.2;"> site under construction since october 6, 2024!⚙️ </h4>
-<p style="margin-top: 0; line-height: 1.2;">(rome wasn't built in a day)</p> 
+![itsme](dinesh.jpg){: style="width: 25%; height: auto;"}<br>
+Hi, I’m Dinesh 👋🏻
 
+- You can find my credentials  [here]({{site.baseurl}}/about/) and What I’m doing currently [here]({{site.baseurl }}/what_im_doin_now/).
+- You can find my writings [here]({{ site.baseurl}}/blog/), I write primarily on [here]({{site.baseurl}}/agriculture/), but I also share [here]({{site.baseurl}}/random_musings/) from time to time.
+- I don’t have filters on my blog, You can find my hot takes on Agri inputs and Software Product management in agriculture [here]({{site.baseurl}}/product_management_posts/)
+- You can find the People I follow [here]({{site.baseurl}}/people_i_follow/)
+- You can find me on [X](https://twitter.com/din8sh) and [LinkedIn](https://linkedin.com/in/din8sh)
