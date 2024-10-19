@@ -3,7 +3,7 @@ layout: page
 permalink: /4/
 ---
 [Go Back](/blog/)
-<h2>Loyalty Programs and their relevancy in Agritech.</h2><dr>
+<h2 style="margin: 0;">Loyalty Programs and their relevancy in Agritech.</h2><dr>
 <h6 style="color: #7D7D7D;" >January 2023</h6><dr>
 Every company benefits from having a loyal customer base, but even companies with world-class products and services also struggle to keep their customers loyal. Loyalty Programs help address this situation. In this piece, I want to give a brief overview of different types of loyalty programs and their relevancy in Agritech.<br><br>
 

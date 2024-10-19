@@ -52,3 +52,4 @@ This is a page inspired by [Uses this](https://usesthis.com) and [Manas Saloi Us
 13. **Google chrome,** 70% of my mobile browsing is still Google chrome.
 14. **Spotify,** I don’t like Spotify yet I pay for Spotify premium, two reasons - To listen to Podcasts and because of my music playlists.
 15. **YouTube Music,** When I'm unsure about what to listen to, I play a song on YouTube and let the algorithm take care of the rest. It never disappoints
+16. **Groww,** For stock and mutual fund investing.

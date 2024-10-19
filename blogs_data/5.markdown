@@ -3,8 +3,8 @@ layout: page
 permalink: /5/
 ---
 [Go Back](/blog/)
-<h2>Why am I Skeptical about Direct-to-Farmer(D2F) Agri Input Market Place?</h2><dr>
-<h6 style="color: #7D7D7D;" >Febraury 2023</h6><dr>
+<h2 style="margin: 0;">Why am I Skeptical about Direct-to-Farmer(D2F) Agri Input Market Place?</h2><dr>
+<h6 style="color: #7D7D7D;" >February 2023</h6><dr>
 I know a few VC-backed D2F Input Market Places are growing pretty well, but I'm skeptical of this model.<br><br>
 
 Price Factor: If one can't match the prices of Agri Input retailers, it will be difficult for them to convince farmers to buy from them, simple. But if we factor in the logistics and handling costs, we will also understand how difficult it will be for them to match the local retailer's price. Farmers value every single rupee.<br><br>

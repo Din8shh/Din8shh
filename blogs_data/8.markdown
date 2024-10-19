@@ -4,7 +4,7 @@ permalink: /8/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;"> A core assumption that needs to be considered while building new products in agri space</h2><dr>
-<h6 style="color: #7D7D7D;" >September 2024<h6>
+<h6 style="color: #7D7D7D;" >September 2024</h6>
 We should test farmers' willingness to pay for product offerings from day 1. Or else, it gets difficult to monetize afterwards.<br><br>
 
 Their willingness to pay for digital products and services is extremely low. It is because most of what they avail for farming is physical in form and in-person.<br><br>

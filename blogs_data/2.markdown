@@ -4,7 +4,7 @@ permalink: /2/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;"> Let's talk about the power of product experience and how we can learn from Zomato.</h2><dr>
-<h6 style="color: #7D7D7D;" >November 2022<h6>
+<h6 style="color: #7D7D7D;" >November 2022</h6>
 There has been a lot of talk on social media about how Zomato saved 1.2 million kgs of single-use cutlery last year with a small change in the default option. On the checkout page. It defaults to "don't send cutlery" instead of "always send cutlery". User has to make an extra effort and tick the box if they need cutlery.<br><br>
 
 Similarly, if you are a hardcore Zomato user like me, you would have noticed that Zomato never asks to update the app before placing orders. Yes! check it for yourself, next time. It might not sound genius but imagine how will you feel if Zomato tells you to update the app immediately when you launch the app. I assume you will be pissed. Only once you do order they ask you to update the app. When you see the app update notification after your order. You are more willing to do it while you wait for your delivery.<br><br>

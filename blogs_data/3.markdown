@@ -3,7 +3,7 @@ layout: page
 permalink: /3/
 ---
 [Go Back](/blog/)
-<h2>How not to sell Digital Subscriptions to Farmers.</h2><dr>
+<h2 style="margin: 0;">How not to sell Digital Subscriptions to Farmers.</h2><dr>
 <h6 style="color: #7D7D7D;" >December 2022</h6><dr>
 For the past 2 years, my experiments were around a digital solution for which farmers would pay, repetitively. Whether I figured it out or not is a discussion for some other time.<br><br>
 
