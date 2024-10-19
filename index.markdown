@@ -3,6 +3,17 @@ layout: home
 description: "Welcome to my personal blog where I share insights and experiences."
 night-mode: true
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N48S70CJWC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N48S70CJWC');
+</script>
+
 ![itsme](dinesh.jpg){: style="width: 25%; height: auto;"}<br>
 
 **Hi, I’m Dinesh 👋🏻**
