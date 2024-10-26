@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /8/
+permalink: /Assumptions_while_building_new_products_in_agri_space/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;"> A core assumption that needs to be considered while building new products in agri space</h2><dr>

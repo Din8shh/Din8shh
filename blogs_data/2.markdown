@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2/
+permalink: /Product_experience_lesson_from_Zomato/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;"> Let's talk about the power of product experience and how we can learn from Zomato.</h2><dr>

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /6/
+permalink: /A_Brief_on_Agriculture_Students_and_Agritech/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;"> A Brief on Agriculture Students and Agritech. </h2><dr>

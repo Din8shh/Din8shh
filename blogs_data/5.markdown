@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /5/
+permalink: /Problems_with_Agri_Input_Market_Place/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;">Why am I Skeptical about Direct-to-Farmer(D2F) Agri Input Market Place?</h2><dr>

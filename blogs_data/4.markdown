@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /4/
+permalink: /Loyalty_Programs_and_their_relevancy_in_Agritech/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;">Loyalty Programs and their relevancy in Agritech.</h2><dr>
