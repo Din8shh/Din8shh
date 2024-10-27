@@ -5,11 +5,11 @@ permalink: /what_im_doin_now/
 ---
 (Last updated on October 19, 2024)
 
-![itsme](dinesh.jpg){: style="width: 25%; height: auto;"}<br>
+![itsme](/images/dinesh.jpg){: style="width: 25%; height: auto;"}<br>
 
 ### Now
 
-This page is inspired by [Derek Siver’s](https://sive.rs/) [Now Page.](https://nownownow.com/p/0Bxi) 
+This page is inspired by [Derek Siver’s](https://sive.rs/) [Now Page.](https://nownownow.com/) 
 
 ### Where
 

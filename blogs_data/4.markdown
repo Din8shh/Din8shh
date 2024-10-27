@@ -3,26 +3,28 @@ layout: page
 permalink: /Loyalty_Programs_and_their_relevancy_in_Agritech/
 ---
 [Go Back](/blog/)
-<h2 style="margin: 0;">Loyalty Programs and their relevancy in Agritech.</h2><dr>
-<h6 style="color: #7D7D7D;" >January 2023</h6><dr>
-Every company benefits from having a loyal customer base, but even companies with world-class products and services also struggle to keep their customers loyal. Loyalty Programs help address this situation. In this piece, I want to give a brief overview of different types of loyalty programs and their relevancy in Agritech.<br><br>
+<h2 style="margin: 0;">Loyalty Programs and their relevancy in Agritech.</h2>
+<h6 style="color: #7D7D7D;" >January 2023</h6>
+Every company benefits from having a loyal customer base, but even companies with world-class products and services also struggle to keep their customers loyal. Loyalty Programs help address this situation. In this piece, I want to give a brief overview of different types of loyalty programs and their relevancy in Agritech.
 
-Book My Show’s superstar. I don't know how many of you are moviegoers, but I'm a sucker for cinema. For a very long time, the only customer benefit BMS offered other than the convenience of booking tickets is discount vouchers. But that isn't enough to keep customers loyal, especially after Covid. So they came up with this interesting Loyalty Program where moviegoers can become Book My Show’s Superstar if they complete 10 transactions in 365 days. Superstar members get exclusive discounts on specific bookings, priority customer support, and Superstar status comes with a validity of 365 days.<br><br>
+Book My Show’s superstar. I don't know how many of you are moviegoers, but I'm a sucker for cinema. For a very long time, the only customer benefit BMS offered other than the convenience of booking tickets is discount vouchers. But that isn't enough to keep customers loyal, especially after Covid. So they came up with this interesting Loyalty Program where moviegoers can become Book My Show’s Superstar if they complete 10 transactions in 365 days. Superstar members get exclusive discounts on specific bookings, priority customer support, and Superstar status comes with a validity of 365 days.
 
-This model can be replicated by any Agri aggregator.<br><br>
+This model can be replicated by any Agri aggregator.
 
-UPI apps, most of us paid our friends and family to get cashback or scratch cards from payments. Over time, cashback was replaced by deal coupons.<br><br>
+UPI apps, most of us paid our friends and family to get cashback or scratch cards from payments. Over time, cashback was replaced by deal coupons.
 
-Similarly, for Agri supply chain startups that are sourcing directly from farmers, these partnership deal coupons can be an exciting opportunity. If farmers are given relevant brand coupons at procurement centers every time they come to sell their produce, it will actually create a lot of buzz in their households.<br><br>
+Similarly, for Agri supply chain startups that are sourcing directly from farmers, these partnership deal coupons can be an exciting opportunity. If farmers are given relevant brand coupons at procurement centers every time they come to sell their produce, it will actually create a lot of buzz in their households.
 
-Amazon Prime needs no introduction and is my favorite loyalty program.<br><br>
+Amazon Prime needs no introduction and is my favorite loyalty program.
 
-Agritech Companies offering more than one service to farmers could replicate the Prime model.<br><br>
+Agritech Companies offering more than one service to farmers could replicate the Prime model.
 
-Flipkart Plus, for those who don't know, Flipkart gives Super Coins to users on purchases of products. Once the user acquires 20 Super Coins in a year, they become a Flipkart Plus member. It has benefits like special discounts, exclusive brand coupons, and early access to festival sales.<br><br>
+Flipkart Plus, for those who don't know, Flipkart gives Super Coins to users on purchases of products.
+ 
+Once the user acquires 20 Super Coins in a year, they become a Flipkart Plus member. It has benefits like special discounts, exclusive brand coupons, and early access to festival sales.
 
-This model can be replicated by established Agri-input marketplaces by making small changes to it. Like festivals, sales can be replaced with harvesting seasons.<br><br>
+This model can be replicated by established Agri-input marketplaces by making small changes to it. Like festivals, sales can be replaced with harvesting seasons.
 
-CRED, the Kunal Shah's brainchild, is all about exclusivity, loyalty, and gamification of the offering. It incentivizes users in different forms with CRED coins at the core.<br><br>
+CRED, the Kunal Shah's brainchild, is all about exclusivity, loyalty, and gamification of the offering. It incentivizes users in different forms with CRED coins at the core.
 
 Since its users are the country's top 3% and are educated, it is running a hybrid Loyalty program that includes multiple elements in the loyalty program, which is why it's not relevant for Agritech users.

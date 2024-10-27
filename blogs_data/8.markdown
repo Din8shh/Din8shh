@@ -3,24 +3,24 @@ layout: page
 permalink: /Assumptions_while_building_new_products_in_agri_space/
 ---
 [Go Back](/blog/)
-<h2 style="margin: 0;"> A core assumption that needs to be considered while building new products in agri space</h2><dr>
+<h2 style="margin: 0;"> A core assumption that needs to be considered while building new products in agri space</h2>
 <h6 style="color: #7D7D7D;" >September 2024</h6>
-We should test farmers' willingness to pay for product offerings from day 1. Or else, it gets difficult to monetize afterwards.<br><br>
+We should test farmers' willingness to pay for product offerings from day 1. Or else, it gets difficult to monetize afterwards.
 
-Their willingness to pay for digital products and services is extremely low. It is because most of what they avail for farming is physical in form and in-person.<br><br>
+Their willingness to pay for digital products and services is extremely low. It is because most of what they avail for farming is physical in form and in-person.
 
-For example, advisory visits, ploughing, pesticide spraying, staking, and many other on-farm services.<br><br>
+For example, advisory visits, ploughing, pesticide spraying, staking, and many other on-farm services.
 
-These make it very tangible for them to evaluate the value delivered for the cost.<br><br>
+These make it very tangible for them to evaluate the value delivered for the cost.
 
-On the flip side, it's difficult for them to understand the value they get from a pure-play digital offering.<br><br>
+On the flip side, it's difficult for them to understand the value they get from a pure-play digital offering.
 
-Consumer products tend to go the direction of building distribution first and then monetizing later. A version of it is not viable in the agriculture context. Once farmers are given free access, their willingness to pay for the same becomes “zero.” So, even when a digital product has adoption at free, the minute it starts charging, farmers return to their previous state.<br><br>
+Consumer products tend to go the direction of building distribution first and then monetizing later. A version of it is not viable in the agriculture context. Once farmers are given free access, their willingness to pay for the same becomes “zero.” So, even when a digital product has adoption at free, the minute it starts charging, farmers return to their previous state.
 
-So, it's important to set the expectations right from the beginning. However, it's not required to charge them a hefty amount. It can be a clear and small monthly/crop season subscription fee.<br><br>
+So, it's important to set the expectations right from the beginning. However, it's not required to charge them a hefty amount. It can be a clear and small monthly/crop season subscription fee.
 
-Once we see them paying for the service, there should be a concerted effort on ensuring that they are becoming aware of the value they are getting from the product.<br><br>
+Once we see them paying for the service, there should be a concerted effort on ensuring that they are becoming aware of the value they are getting from the product.
 
-All of this might sound generic and obvious, but in the beginning, when you have just one service offering, it's very difficult to stick to it and convert farmers.<br><br>
+All of this might sound generic and obvious, but in the beginning, when you have just one service offering, it's very difficult to stick to it and convert farmers.
 
 Once we start seeing farmers pay for the service, we should immediately work on bundling other services into the offering as soon as possible. This helps make farmers understand the value they are receiving from the offering continuously.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uses this
+title: uses this
 permalink: /uses_this/
 ---
 This is a page inspired by [Uses this](https://usesthis.com) and [Manas Saloi Uses this](https://manassaloi.com/usesthis/).

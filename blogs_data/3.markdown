@@ -3,21 +3,21 @@ layout: page
 permalink: /How_not_to_sell_Digital_Subcriptions_to_Farmers/
 ---
 [Go Back](/blog/)
-<h2 style="margin: 0;">How not to sell Digital Subcriptions to Farmers.</h2><dr>
-<h6 style="color: #7D7D7D;" >December 2022</h6><dr>
-For the past 2 years, my experiments were around a digital solution for which farmers would pay, repetitively. Whether I figured it out or not is a discussion for some other time.<br><br>
+<h2 style="margin: 0;">How not to sell Digital Subcriptions to Farmers.</h2>
+<h6 style="color: #7D7D7D;" >December 2022</h6>
+For the past 2 years, my experiments were around a digital solution for which farmers would pay, repetitively. Whether I figured it out or not is a discussion for some other time.
 
-In this post, I want to talk about why making farmers subscribe to a service is important and why pricing is everything. I'm taking the examples of 2 VC-backed startups that have loyalty instruments in place, Bharat Agri and DeHaat.<br><br>
+In this post, I want to talk about why making farmers subscribe to a service is important and why pricing is everything. I'm taking the examples of 2 VC-backed startups that have loyalty instruments in place, Bharat Agri and DeHaat.
 
-Bharat Agri sells Customized Digital Crop Advisory for farmers and they used to charge Rs. 1000/Crop/Acre.<br><br>
+Bharat Agri sells Customized Digital Crop Advisory for farmers and they used to charge Rs. 1000/Crop/Acre.
 
-Bharat Agri's operating revenue source is crop advisory subscriptions until recently. I felt Rs. 1000/- per crop/acre was quite a lot. It leads to them having a large sales force to sell. The problem with this model will be retention. It's very difficult to make farmers purchase a subscription that has only one benefit (crop advisory). The sales can be pushed for the first time using the salesforce. But, if they try to sell the same feature without any new additions, it will be very difficult to sell.<br><br>
+Bharat Agri's operating revenue source is crop advisory subscriptions until recently. I felt Rs. 1000/- per crop/acre was quite a lot. It leads to them having a large sales force to sell. The problem with this model will be retention. It's very difficult to make farmers purchase a subscription that has only one benefit (crop advisory). The sales can be pushed for the first time using the salesforce. But, if they try to sell the same feature without any new additions, it will be very difficult to sell.
 
-DeHaat, on the other hand, charges farmers Rs. 200/Year for their digital solutions.<br><br>
+DeHaat, on the other hand, charges farmers Rs. 200/Year for their digital solutions.
 
-DeHaat priced its membership on the lower side because it's just lead generation for them. They generate revenue through upselling other services. However, the major flaw in their pricing is, it's too cheap. It won't create enough stickiness among the farmers to genuinely try the service because they won't feel a tiny bit of pain to pay that membership fee.<br><br>
+DeHaat priced its membership on the lower side because it's just lead generation for them. They generate revenue through upselling other services. However, the major flaw in their pricing is, it's too cheap. It won't create enough stickiness among the farmers to genuinely try the service because they won't feel a tiny bit of pain to pay that membership fee.
 
-We witness two different pricing models. But both have not priced it optimally. One is selling a single sophisticated benefit at a high price and the other is selling a cheap membership that has multiple benefits. In essence, being ineffective together. How could they change it up? Loyalty functionality?<br><br>
+We witness two different pricing models. But both have not priced it optimally. One is selling a single sophisticated benefit at a high price and the other is selling a cheap membership that has multiple benefits. In essence, being ineffective together. How could they change it up? Loyalty functionality?
 
 I will write more about this.
 

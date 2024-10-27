@@ -2,4 +2,4 @@
 layout: page
 permalink: /random_musings/
 ---
-will be updated soon
+<h2>Random Musings</h2>
