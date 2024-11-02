@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Curious vs Ambitiously Curious/
+permalink: /Curious_vs_Ambitiously_Curious/
 ---
 [Go Back](/blog/)
 <h2 style="margin: 0;">Curious vs Ambitiously Curious</h2>
