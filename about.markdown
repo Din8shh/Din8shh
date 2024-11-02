@@ -3,4 +3,4 @@ layout: page
 title: about
 permalink: /about/
 --- 
-will be updated soon
+Will be updated by Novomber 5
